@@ -1,6 +1,6 @@
 # Guessing-Game
 
-Welcome to the guessing game. It's my first piece of self written python code that's not a Machine Learning Jupyter Notebook in Kaggle. So feedback is more than welcome.
+Welcome to the guessing game. It's my first piece of self written python code that's not a Machine Learning Jupyter Notebook in Kaggle. So feedback is more than welcome. The inspiration for the structure came from a blog. Unfortunately, I don't recall the name. In case I'll find it, I'll of course share it with you guys.
 
 **Goal of this guessing game**: Guess a random number between 0 and 10.
 
